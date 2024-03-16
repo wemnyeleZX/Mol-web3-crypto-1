@@ -1,0 +1,2 @@
+Ethereum Wallet Integration:
+Đoạn mã này sử dụng Web3 để kết nối với ví Ethereum và thực hiện các giao dịch cơ bản như chuyển tiền.
